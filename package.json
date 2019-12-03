@@ -1,0 +1,29 @@
+{
+  "name": "ACL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mongodb": "^3.3.5",
+    "nodemon": "^2.0.1",
+    "mongoose": "^5.7.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosriKhaled/ACL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosriKhaled/ACL/issues"
+  },
+  "homepage": "https://github.com/YosriKhaled/ACL#readme"
+}
